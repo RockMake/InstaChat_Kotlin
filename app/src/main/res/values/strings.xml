@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">InstChat</string>
+    <string name="desarollador">Love Story</string>
+
+
+    <string name="ir_registro">Registrate</string>
+    <string name="ir_login">Iniciar Sesion</string>
+
+    <string name="R_nombre_usuario">Nombre de usuario</string>
+    <string name="R_correo">Correo</string>
+    <string name="R_contrasena">Contraseña</string>
+    <string name="R_confirmar_contrasena">Confirmar contraseña</string>
+    <string name="Btn_registrarse">Registrarse</string>
+
+    <string name="menu_salir">Cerrar sesion</string>
+
+    <string name="L_email">Correo</string>
+    <string name="L_contrasena">Contraseña</string>
+    <string name="Btn_iniciar_sesion">Iniciar sesion</string>
+    <string name="_12_00_pm">12:00 PM</string>
+    <string name="mensaje">Mensaje</string>
+
+</resources>

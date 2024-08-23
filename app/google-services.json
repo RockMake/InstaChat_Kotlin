@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258712742387",
+    "project_id": "instachat-66d22",
+    "storage_bucket": "instachat-66d22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258712742387:android:6f8768e01bddfea6524a86",
+        "android_client_info": {
+          "package_name": "com.dramirez.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwFPfLxevxV-CREuU8YqccMYzU_WOhGrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
